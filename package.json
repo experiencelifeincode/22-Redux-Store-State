@@ -1,19 +1,19 @@
 {
-  "name": "22-redux-store-state",
+  "name": "mern-shopping",
   "version": "1.0.0",
-  "description": "[![Status](https://img.shields.io/badge/Status-In_Progress-80DEEA?style=for-the-badge&link=https://github.com/kwing25/22-Redux-Store-State)](https://github.com/kwing25/22-Redux-Store-State)",
-  "main": "index.js",
+  "description": "",
+  "main": "server/server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server/server.js",
+    "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
+    "install": "cd server && npm i && cd ../client && npm i",
+    "seed": "cd server && npm run seed",
+    "build": "cd client && npm run build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kwing25/22-Redux-Store-State.git"
-  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kwing25/22-Redux-Store-State/issues"
-  },
-  "homepage": "https://github.com/kwing25/22-Redux-Store-State#readme"
+  "devDependencies": {
+    "concurrently": "^5.1.0"
+  }
 }
