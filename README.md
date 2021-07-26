@@ -1,5 +1,7 @@
-# E-Commerce App using Redux 
+# E-Commerce App using Redux [![⚠️ALERT](https://img.shields.io/badge/⚠️ALERT-Site_Down!-fc4e4e?labelColor=302626&style=flat&link=https://book-search-engine-kwing25.netlify.app/)](https://book-search-engine-kwing25.netlify.app/)
+
 [![Status](https://img.shields.io/badge/Status-In_Progress-80DEEA?style=for-the-badge&link=https://github.com/kwing25/22-Redux-Store-State)](https://github.com/kwing25/22-Redux-Store-State)
+[![Repo Type](https://img.shields.io/badge/Repo_Type-Public-fff200?style=for-the-badge&link=https://github.com/kwing25/22-Redux-Store-State)](https://github.com/kwing25/22-Redux-Store-State)
 
 [![Redux](https://img.shields.io/badge/Redux-Technology_Used-000000?labelColor=d1d1d1&style=for-the-badge&logo=Redux&link=https://redux.js.org/)](https://redux.js.org/)
 [![React](https://img.shields.io/badge/React-Technology_Used-000000?labelColor=d1d1d1&style=for-the-badge&logo=React&link=https://reactjs.org/)](https://reactjs.org/)
@@ -19,13 +21,15 @@ An e-commerce platform that lets customers view and buy products.
 
 
 ## Links 
+
 - [Github Repo](https://github.com/kwing25/22-Redux-Store-State)
 - [Live Site](https://reverent-curran-01e357.netlify.app/) 
 - [Heroku](https://serene-caverns-11492.herokuapp.com/)
-  
-[![⚠️ALERT](https://img.shields.io/badge/⚠️ALERT-Site_Down!-fc4e4e?labelColor=302626&style=for-the-badge&link=https://book-search-engine-kwing25.netlify.app/)](https://book-search-engine-kwing25.netlify.app/)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b72583d1-6559-467b-b7a2-3c38677690dc/deploy-status)](https://app.netlify.com/sites/reverent-curran-01e357/deploys)
 [![Heroku](https://img.shields.io/badge/Heroku-Build_Fail-ffbfbf?labelColor=000000&style=flat&logo=Heroku&link=https://serene-caverns-11492.herokuapp.com/)](https://serene-caverns-11492.herokuapp.com/)
+
+
 
 ## Installation
 A little intro about the installation.
@@ -59,7 +63,7 @@ Kendra Wing
 > - Created Repo & Initial Commit - Mon July 19, 2021
 > - _Updloading Files & Publishing Site..._ - Sun July 25, 2021
 
-[![GitHub](https://img.shields.io/badge/GitHub-In_Progress-f1f424?labelColor=000000&style=for-the-badge&logo=GitHub&link=https://github.com/kaivont85/Group-3-Project)](https://github.com/kaivont85/Group-3-Project)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo_Up-249b09?labelColor=000000&style=for-the-badge&logo=GitHub&link=https://github.com/kwing25/22-Redux-Store-State)](https://github.com/kwing25/22-Redux-Store-State)
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
