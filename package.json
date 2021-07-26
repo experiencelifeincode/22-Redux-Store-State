@@ -1,0 +1,19 @@
+{
+  "name": "22-redux-store-state",
+  "version": "1.0.0",
+  "description": "[![Status](https://img.shields.io/badge/Status-In_Progress-80DEEA?style=for-the-badge&link=https://github.com/kwing25/22-Redux-Store-State)](https://github.com/kwing25/22-Redux-Store-State)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwing25/22-Redux-Store-State.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwing25/22-Redux-Store-State/issues"
+  },
+  "homepage": "https://github.com/kwing25/22-Redux-Store-State#readme"
+}
