@@ -12,12 +12,22 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
+    "@stripe/stripe-js": "^1.16.0",
+    "apollo-boost": "^0.4.9",
     "apollo-server-express": "^2.11.0",
     "bcrypt": "^4.0.1",
     "express": "^4.17.1",
     "graphql": "^15.5.0",
+    "graphql-tag": "^2.12.5",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3",
+    "redux": "^4.1.0",
     "stripe": "^8.67.0"
   },
   "devDependencies": {
