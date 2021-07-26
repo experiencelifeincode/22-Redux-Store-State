@@ -2,6 +2,7 @@
 [![Status](https://img.shields.io/badge/Status-In_Progress-80DEEA?style=for-the-badge&link=https://github.com/kwing25/22-Redux-Store-State)](https://github.com/kwing25/22-Redux-Store-State)
 
 [![Redux](https://img.shields.io/badge/Redux-Technology_Used-000000?labelColor=d1d1d1&style=for-the-badge&logo=Redux&link=https://redux.js.org/)](https://redux.js.org/)
+[![React](https://img.shields.io/badge/React-Technology_Used-000000?labelColor=d1d1d1&style=for-the-badge&logo=React&link=https://reactjs.org/)](https://reactjs.org/)
 
 ## Table of Contents:
 
@@ -17,10 +18,11 @@
 An e-commerce platform that lets customers view and buy products. 
 
 
-## Links
-- [Github Repo](https://github.com/kaivont85/Group-3-Project)
-- [Live Site](https://book-search-engine-kwing25.netlify.app/)
-
+## Links 
+- [Github Repo](https://github.com/kwing25/22-Redux-Store-State)
+- [Live Site](https://github.com/kwing25/22-Redux-Store-State) 
+  
+[![⚠️ALERT](https://img.shields.io/badge/⚠️ALERT-Site_Down!-fc4e4e?labelColor=302626&style=for-the-badge&link=https://book-search-engine-kwing25.netlify.app/)](https://book-search-engine-kwing25.netlify.app/)
 ## Installation
 A little intro about the installation.
 
@@ -48,7 +50,7 @@ To let customers view and buy products.
 Kendra Wing
 [![GitHub](https://img.shields.io/badge/GitHub-kwing25-green?style=social&logo=GitHub&link=https://github.com/kwing25)](https://github.com/kwing25)
 
-## Status/Updates ![GitHub last commit](https://img.shields.io/github/last-commit/kaivont85/Group-3-Project)
+## Status/Updates ![GitHub last commit](https://img.shields.io/github/last-commit/kwing25/22-Redux-Store-State)
 
 > - Created Repo & Initial Commit - Mon July 19, 2021
 > - _Updloading Files & Publishing Site..._ - Sun July 25, 2021
