@@ -1,6 +1,7 @@
-# E-Commerce App using Redux [![⚠️ALERT](https://img.shields.io/badge/⚠️ALERT-Site_Down!-fc4e4e?labelColor=302626&style=flat&link=https://book-search-engine-kwing25.netlify.app/)](https://book-search-engine-kwing25.netlify.app/)
+# E-Commerce App using Redux 
 
 [![Status](https://img.shields.io/badge/Status-In_Progress-80DEEA?style=for-the-badge&link=https://github.com/kwing25/22-Redux-Store-State)](https://github.com/kwing25/22-Redux-Store-State)
+[![Status](https://img.shields.io/badge/Status-Under_Construction-F2D7D5?style=for-the-badge&link=https://github.com/kwing25/22-Redux-Store-State)](https://github.com/kwing25/22-Redux-Store-State)
 [![Repo Type](https://img.shields.io/badge/Repo_Type-Public-fff200?style=for-the-badge&link=https://github.com/kwing25/22-Redux-Store-State)](https://github.com/kwing25/22-Redux-Store-State)
 
 [![Redux](https://img.shields.io/badge/Redux-Technology_Used-000000?labelColor=d1d1d1&style=for-the-badge&logo=Redux&link=https://redux.js.org/)](https://redux.js.org/)
@@ -18,6 +19,8 @@
   - [License](#license)
 ## Description
 An e-commerce platform that lets customers view and buy products. 
+
+![Demo Pic](https://raw.githubusercontent.com/kwing25/22-Redux-Store-State/main/reduxstoredemopic.jpg)
 
 
 ## Links 
@@ -61,7 +64,8 @@ Kendra Wing
 ## Status/Updates ![GitHub last commit](https://img.shields.io/github/last-commit/kwing25/22-Redux-Store-State)
 
 > - Created Repo & Initial Commit - Mon July 19, 2021
-> - _Updloading Files & Publishing Site..._ - Sun July 25, 2021
+> - Updload of Files & Publishing Site - Sun July 25, 2021
+> - _Updated packages & Trying to Deploy..._ - Mon July 26, 2021
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo_Up-249b09?labelColor=000000&style=for-the-badge&logo=GitHub&link=https://github.com/kwing25/22-Redux-Store-State)](https://github.com/kwing25/22-Redux-Store-State)
 ## License
