@@ -20,9 +20,13 @@ An e-commerce platform that lets customers view and buy products.
 
 ## Links 
 - [Github Repo](https://github.com/kwing25/22-Redux-Store-State)
-- [Live Site](https://github.com/kwing25/22-Redux-Store-State) 
+- [Live Site](https://reverent-curran-01e357.netlify.app/) 
+- [Heroku](https://serene-caverns-11492.herokuapp.com/)
   
 [![⚠️ALERT](https://img.shields.io/badge/⚠️ALERT-Site_Down!-fc4e4e?labelColor=302626&style=for-the-badge&link=https://book-search-engine-kwing25.netlify.app/)](https://book-search-engine-kwing25.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b72583d1-6559-467b-b7a2-3c38677690dc/deploy-status)](https://app.netlify.com/sites/reverent-curran-01e357/deploys)
+[![Heroku](https://img.shields.io/badge/Heroku-Build_Fail-ffbfbf?labelColor=000000&style=flat&logo=Heroku&link=https://serene-caverns-11492.herokuapp.com/)](https://serene-caverns-11492.herokuapp.com/)
+
 ## Installation
 A little intro about the installation.
 
